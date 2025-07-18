@@ -99,8 +99,10 @@ ________________________________________
 🙋‍♂️ About Me
 Omoniyi Mayowa
 Business & Data Analyst | Excel & Power BI Enthusiast | Passionate Educator
-📩 mayowamaria74@gmail.com
+
+📩 mayooyea@gmail.com
 📍 Lagos, Nigeria
+
 🔗 LinkedIn: https://www.linkedin.com/in/mayowa-omoniyi-460137b6/
 
 | GitHub: https://github.com/mayooryea/Amazon-Product-Review-Analysis/edit/main/README.md
