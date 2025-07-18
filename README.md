@@ -42,24 +42,36 @@ ________________________________________
 •	GitHub (for project versioning and portfolio hosting)
 ________________________________________
 🔬 Methodology
+
 1.	Data Understanding
 o	Reviewed product attributes: price, discount, rating, review count, etc.
-2.	Data Cleaning & Preparation
+
+3.	Data Cleaning & Preparation
 o	Cleaned and structured data using Excel formulas and calculated columns.
-3.	Exploratory Data Analysis (EDA)
+
+5.	Exploratory Data Analysis (EDA)
 o	Used Pivot Tables to explore data distribution, categories, trends.
-4.	Insights Generation
+
+7.	Insights Generation
 o	Applied logic and calculations to draw insights around sales, ratings, and profitability.
-5.	Dashboard Design
+
+9.	Dashboard Design
 o	Created an interactive Excel dashboard with charts and slicers.
 ________________________________________
 📊 Key Insights
+
 •	Top Discount Categories: Computers & Accessories (60%) and Electronics (63%) offered the highest average discounts.
+
 •	Most Reviewed Category: Electronics had the highest number of reviews with over 15M cumulative counts.
+
 •	Top Rated Products: Several products achieved ratings of 4.5 and above, indicating high customer satisfaction.
+
 •	Revenue Potential: Electronics generated over ₹98B in estimated revenue based on ratings × price.
+
 •	Price Buckets: Majority of products fall into the >₹500 range, showing preference for mid-to-premium products.
+
 •	Discount Impact: Products with higher discounts showed a positive correlation with rating volume.
+
 ________________________________________
 💡 Business Recommendations
 1.	Boost Discounts on Popular Categories
