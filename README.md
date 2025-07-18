@@ -9,6 +9,8 @@ ________________________________________
 🧾 Introduction
 Welcome to my Data Analysis Capstone Project, part of the DSA Data Analysis Program. This project focuses on exploring and analyzing Amazon product review data using Excel, pivot tables, and exploratory techniques. The insights aim to assist e-commerce sellers and stakeholders in understanding customer behavior, product performance, and pricing strategies.
 I’m Omoniyi Mayowa, a Business & Data Analyst passionate about transforming raw data into actionable business insights. In this project, I leveraged my analytical skills to uncover key metrics and generate recommendations that drive product and marketing decisions.
+
+![image alt](https://github.com/mayooryea/Amazon-Product-Review-Analysis/blob/0e33d894ee221f2decbaf026584cff847c806fa4/1.%20Amazon%20dashboard.png)
 ________________________________________
 🎯 Project Objectives
 •	To explore and understand trends in Amazon product categories, pricing, discounts, and reviews.
